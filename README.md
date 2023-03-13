@@ -29,17 +29,6 @@ const thai = {
   </a>
   
 
-  ="
-
-
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://https://github.com/fxcx
-  username=fxcx&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-
-
 ---
 
 ⭐️ From [@fxcx](https://github.com/fxcx)
