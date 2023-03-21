@@ -1,7 +1,7 @@
 ```javascript
 const thai = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, ],
+  code: [Javascript, HTML, CSS, ],
   tools: [React, Node,],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: 
