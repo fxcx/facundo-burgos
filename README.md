@@ -10,4 +10,4 @@ const thai = {
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="facundo burgos's LinkedIn Profile" height="30" width="30">
   </a>
 ---
-⭐️ From [@fxcx](https://www.linkedin.com/in/facundoburgos96/)
+⭐️ From [@fxcx]https://www.linkedin.com/in/facundoburgos96
