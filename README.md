@@ -1,9 +1,11 @@
 ```javascript
-const thai = {
-  pronouns: "her",
-  code: [Javascript, HTML, CSS, ],
-  tools: [React, Node,],
+const developer = {
 
+   name: "facundo"
+   age: 26 ,
+   lenguage: [Javascript, HTML, CSS, Tailwind, Python ],
+   tools: [React, Node, Next.js, Docker, Prisma],
+   specialist: "developer-Backend"
 ```
 <h2 align="center">You can reach me at ::</h2>
   <a href="https://www.linkedin.com/in/facundoburgos96/">
