@@ -3,8 +3,8 @@ const developer = {
 
    name: "facundo"
    age: 26 ,
-   lenguage: [Javascript, HTML, CSS, Tailwind, Python ],
-   tools: [React, Node, Next.js, Docker, Prisma],
+   lenguage: [Javascript, Python ],
+   tools: [React, Next.js, Docker, Prisma, Node.js, HTML, CSS, Tailwind],
    specialist: "developer-Backend"
 ```
 <h2 align="center">You can reach me at ::</h2>
