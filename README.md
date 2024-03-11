@@ -4,7 +4,7 @@ const developer = {
    name: "facundo"
    age: 26 ,
    lenguage: [Javascript, typeScript ,Python ],
-   Front-end: [React v18, Next.js, HTML, CSS, Tailwind],
+   Frontend: [React v18, Next.js, HTML, CSS, Tailwind],
    Backend: [Docker, Prisma, PostgreSql, mongoDB, express.js]
    specialist: "developer-Backend"
 ```
