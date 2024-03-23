@@ -1,12 +1,15 @@
 ```javascript
 const developer = {
+   name: "Facundo",
+   age: 26,
+   languages: ['Javascript', 'TypeScript', 'Python'],
+   technologies: {
+     frontend: ['React v18', 'Next.js', 'HTML', 'CSS', 'Tailwind'],
+     backend: ['Docker', 'Prisma', 'PostgreSql', 'MongoDB', 'Express.js']
+   },
+   objective: "Specialist Backend Developer"
+}
 
-   name: "facundo"
-   age: 26 ,
-   lenguage: [Javascript, typeScript ,Python ],
-   Frontend: [React v18, Next.js, HTML, CSS, Tailwind],
-   Backend: [Docker, Prisma, PostgreSql, mongoDB, express.js]
-   specialist: "developer-Backend"
 ```
 <h2 align="center">You can reach me at ::</h2>
   <a href="https://www.linkedin.com/in/facundoburgos96/">
