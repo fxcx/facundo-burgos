@@ -4,8 +4,8 @@ const developer = {
    age: 26,
    languages: ['Javascript', 'TypeScript', 'Python'],
    technologies: {
-     frontend: ['React v18', 'Next.js', 'HTML', 'CSS', 'Tailwind'],
-     backend: ['Docker', 'Prisma', 'PostgreSql', 'MongoDB', 'Express.js']
+     frontend: ['React v18', 'Next.js v13', 'HTML', 'CSS', 'Tailwind'],
+     backend: ['linux', Docker', 'PostgreSql', 'MongoDB', 'Express.js','Prisma','Django', 'Elysia']
    },
    objective: "Specialist Backend Developer"
 }
