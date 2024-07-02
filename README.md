@@ -2,10 +2,10 @@
 const developer = {
    name: "Facundo",
    age: 26,
-   languages: ['Javascript', 'TypeScript', 'Python'],
+   languages: ['Javascript', 'TypeScript^ ', 'Python 3^ '],
    technologies: {
-     frontend: ['React v18', 'Next.js v13', 'HTML', 'CSS', 'Tailwind'],
-     backend: ['linux', Docker', 'PostgreSql', 'MongoDB', 'Express.js','Prisma','Django', 'Elysia']
+     frontend: ['React v18^ ', 'Next.js v13^ ', 'HTML', 'CSS', 'Tailwind^ '],
+     backend: ['linux^ ', Docker^ ', 'PostgreSql^ ', 'MongoDB^ ', 'Express.js','Prisma^ ','Django^ ', 'Elysia']
    },
    objective: "Specialist Backend Developer"
 }
